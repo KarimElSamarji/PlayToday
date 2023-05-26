@@ -4,7 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project represent a tool to reserve a stadium near of you, with random people or your friends, join or create match. 
+This project represents a tool to reserve a stadium near of you, with random people or your friends, join or create match. 
 
 A few resources to get you started if this is your first Flutter project:
 
