@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605438694540",
+    "project_id": "playtoday-c585b",
+    "storage_bucket": "playtoday-c585b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605438694540:android:565edbb8d646a0517a97a9",
+        "android_client_info": {
+          "package_name": "com.example.playtoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605438694540-0miev8ecr6ua4dikp0lbn8qci0mg5sj8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Yw6cR2GZIJ00TvkCsXlubJKH9PbU7MU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605438694540-0miev8ecr6ua4dikp0lbn8qci0mg5sj8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
